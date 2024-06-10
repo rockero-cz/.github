@@ -20,7 +20,7 @@ Here are some of our cool repositories:
 Meet our team of talented individuals who are passionate about what they do. Each one of us is an experienced developer who is a pleasure to talk to on a very technical as well as business level. [Try it! :)](https://rockero.cz)
 
 <p align="center">
- <img src="https://rockero.cz/images/team.png" alt="Rockero Team" width="75%">
+ <img src="https://rockero.cz/images/team.png" alt="Rockero Team" width="50%">
 </p>
 
 We use our knowledge to build the most advanced software in the Czech Republic and Slovakia. And we are happy to share these skills, whether by publishing our open-source packages or by consulting in other development companies.
