@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://rockero.cz/images/rockero__logo.svg" alt="Rockero Logo" width="50%" style="border-radius: 16px;">
+ <img src="https://rockero.cz/images/rockero__logo.svg" alt="Rockero Logo" width="20%" style="border-radius: 16px;">
 </p>
 
 # We are Rockero!
